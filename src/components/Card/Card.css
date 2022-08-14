@@ -1,0 +1,24 @@
+.card {
+  background-color: white;
+  border-radius: 24px;
+  padding: 16px;
+}
+.img_container {
+  width: 300px;
+  padding: 10px;
+}
+.card_img {
+  width: 100%;
+}
+.pokemon_info h2 {
+  margin-bottom: 10px;
+}
+
+.pokemon_info h3,
+p {
+  margin-bottom: 6px;
+}
+.name_wrapper {
+  display: flex;
+  justify-content: space-between;
+}
